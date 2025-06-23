@@ -1,0 +1,36 @@
+numpy
+pandas
+scikit-learn
+
+# import numpy as np
+# import pandas as pd
+# from sklearn .model_selection import train_test_split
+# from sklearn import svm
+# from sklearn.metrics import accuracy_score
+
+
+# Age: Age of the patient.
+
+# Sex: Sex of the patient (1 = male, 0 = female).
+
+# Cp: Chest pain type (0 = typical angina, 1 = atypical angina, 2 = non-anginal pain, 3 = asymptomatic).
+
+# Trestbps: Resting blood pressure (in mm Hg on admission to the hospital).
+
+# Chol: Serum cholesterol in mg/dl.
+
+# Fbs: Fasting blood sugar > 120 mg/dl (1 = true, 0 = false).
+
+# Restecg: Resting electrocardiographic results (0 = normal, 1 = having ST-T wave abnormality, 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria).
+
+# Thalach: Maximum heart rate achieved.
+
+# Exang: Exercise-induced angina (1 = yes, 0 = no).
+
+# Oldpeak: ST depression induced by exercise relative to rest ('old peak' depression).
+
+# Slope: Slope of the peak exercise ST segment (0 = upsloping, 1 = flat, 2 = downsloping).
+
+# Ca: Number of major vessels (0-3) colored by fluoroscopy.
+
+# Thal: Thalassemia (1 = normal; 2 = fixed defect; 3 = reversible defect).
